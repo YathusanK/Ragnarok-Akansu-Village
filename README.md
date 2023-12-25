@@ -8,8 +8,6 @@ This Python application is a visual novel game that takes place in Akansu, a med
 
 **Screenshots**
 
+<img width="303" alt="Screenshot 2023-12-24 230401" src="https://github.com/YathusanK/Ragnarok-Akansu-Village/assets/131774105/38563b6f-913a-4834-bcd4-916309a57583">
 
-<img width="305" alt="Screenshot 2023-12-24 225331" src="https://github.com/YathusanK/Ragnarok-Akansu-Village/assets/131774105/bc45ee80-f6b6-4070-9d37-e5d92df3c0bd">
-
-
-<img width="264" alt="image" src="https://github.com/YathusanK/Ragnarok-Akansu-Village/assets/131774105/9684e955-bf0d-451a-8f42-b71ecf6adac3">
+![]<img width="264" alt="Screenshot 2023-12-24 225948" src="https://github.com/YathusanK/Ragnarok-Akansu-Village/assets/131774105/4a7c8212-e34e-4d88-bc60-1329bd8d4f3d">
